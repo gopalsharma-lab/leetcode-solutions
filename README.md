@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/gopalsharma-lab/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/gopalsharma-lab/leetcode-solutions/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gopalsharma-lab/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0169-majority-element](https://github.com/gopalsharma-lab/leetcode-solutions/tree/master/0169-majority-element) |
 ## Greedy
 |  |
 | ------- |
@@ -33,4 +35,20 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/gopalsharma-lab/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/gopalsharma-lab/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/gopalsharma-lab/leetcode-solutions/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/gopalsharma-lab/leetcode-solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/gopalsharma-lab/leetcode-solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/gopalsharma-lab/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
